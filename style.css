@@ -1,0 +1,32 @@
+.profile{
+    width: 175px;
+    border-radius: 50%;
+}
+body{
+  text-align:center;
+    background-color:aqua;
+}
+.main_div{
+  background-color:aquamarine;
+}
+.menu{
+    background-color: #ff0000; 
+}
+#About{
+    background-color: #5c9ad0;
+}
+#Wiki{
+  height: 500px;
+    width: 700px;
+}
+.Ima{
+height: 500px;
+    width: 500px;
+}
+#ID{
+    height: 500px;
+    width: 500px;
+}
+#myname{
+    color: #1b116f
+}
